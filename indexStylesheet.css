@@ -82,20 +82,23 @@ body{
     0%{
         opacity: 1;
         /*left: 100%;*/
-        left: 100vw;
+        left: 150vw;
         top: 25vh;
     }
     6.25%{
         opacity: 1;
-        left: 85vw;
+        left: 97vw;
+        top: 25vh;
     }
     12.5%{
         opacity: 1;
         left: 70vw;
+        top: 25vh;
     }
     18.75%{
         opacity: 1;
         left: 55vw;
+        top: 25vh;
     }
     25%{
         opacity: 1;
