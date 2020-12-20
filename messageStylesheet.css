@@ -26,7 +26,7 @@ body {
 .card_content {
     text-align: center;
     position: relative;
-    padding: 15em 5em;
+    padding: 18em 6em;
     transition: transform 3s;
     transform-style: preserve-3d;
 }
